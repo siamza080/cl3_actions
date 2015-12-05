@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=cl3_actions
+Pbo Type is: Arma Addon
+Sha: 'F4A55D38DB2A39415D8B71A4CF351766EF857EEE'
+//////</HEADER>//////
